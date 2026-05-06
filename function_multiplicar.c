@@ -14,5 +14,5 @@ int multiplicar(int a, int b) {
 
     return resultado;
 
-    //feito por Thiago Bonfanti
+    //feito por Marcelo Mendes
 }
