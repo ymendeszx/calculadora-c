@@ -26,7 +26,7 @@ int main() {
         }
 
         printf("\nDeseja realizar outra operacao? (1-Sim / 0-Sair): ");
-        printf("Feito por Thiago Bonfanti");
+        printf("Feito por Marcelo Mendes");
         scanf("%d", &continuar);
 
     } while (continuar == 1);
