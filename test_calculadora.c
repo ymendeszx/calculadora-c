@@ -16,6 +16,6 @@ int main() {
     rodar_teste(42, 64);
     
     printf("\nTodos os testes passaram com sucesso!\n");
-    printf("Feito por Thiago Bonfanti");
+    printf("Feito por Marcelo Mendes");
     return 0;
 }
